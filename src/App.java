@@ -9,6 +9,10 @@ public class App {
 
         System.out.println(nombre + " " + edad);
 
+        String nombre2 = "Pepa";
+        int edad2 = 23;
+
+        System.out.println(nombre2 + " " + edad2);
         int sum = 0;
 
         sum = 1 + 2;
