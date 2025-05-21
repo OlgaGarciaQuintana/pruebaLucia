@@ -4,5 +4,11 @@ public class App {
 
         System.out.println("Hola Luciaaa, yo soy Olga <3");
 
+        String nombre = "Pedro";
+        int edad = 19;
+
+        System.out.println(nombre + " " + edad);
+
+
     }
 }
