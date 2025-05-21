@@ -1,5 +1,8 @@
 public class App {
     public static void main(String[] args) throws Exception {
         System.out.println("Holis, soy Lucia :3");
+
+        System.out.println("Hola Luciaaa, yo soy Olga <3");
+
     }
 }
