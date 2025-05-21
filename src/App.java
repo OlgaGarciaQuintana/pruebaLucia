@@ -9,6 +9,12 @@ public class App {
 
         System.out.println(nombre + " " + edad);
 
+        int sum = 0;
+
+        sum = 1 + 2;
+
+        System.out.println(sum);
+
 
     }
 }
